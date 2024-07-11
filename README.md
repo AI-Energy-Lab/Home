@@ -6,7 +6,6 @@
 
 <h3 align="center">Home</h3>
 
-
 <!-- Replace the title of the repository -->
 
 <p align="center">
